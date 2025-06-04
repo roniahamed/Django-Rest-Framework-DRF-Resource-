@@ -1,5 +1,3 @@
-Okay, let's dive into creating a CustomUser model in Django where `email` is the king! This is a common requirement for modern web applications, and while Django's default User model is great, sometimes you need more flexibility.
-
 This tutorial will guide you step-by-step, explain the "why" behind each action, and point out common pitfalls.
 
 # Mastering Django: Email as Username with a CustomUser Model
